@@ -27,7 +27,7 @@ export default class Hero4Slider extends Component {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero-four-slider-1.jpg)",
+                  "url(assets/images/about/Camel2.jpg)",
               }}
             />
             <div className="container">
@@ -79,7 +79,7 @@ export default class Hero4Slider extends Component {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero-four-slider-2.jpg)",
+                  "url(assets/images/about/Camel0.jpg)",
               }}
             />
             <div className="container">
@@ -131,7 +131,7 @@ export default class Hero4Slider extends Component {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero-four-slider-3.jpg)",
+                  "url(assets/images/about/Camel9.jpg)",
               }}
             />
             <div className="container">
