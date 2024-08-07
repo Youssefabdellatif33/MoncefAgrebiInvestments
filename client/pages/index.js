@@ -191,7 +191,7 @@ const Index = () => {
                 <div className="features-item d-flex mb-30">
                   <div className="fill-number">01</div>
                   <div className="icon">
-                    <i className="flaticon-tractor" />
+                    <i className="flaticon-email" />
                   </div>
                   <div className="text">
                     <h5>Modern Agriculture Equipment</h5>

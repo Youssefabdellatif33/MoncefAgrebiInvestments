@@ -120,7 +120,7 @@ const Header1 = () => (
             <div className="site-branding d-lg-block d-none">
               <Link href="/">
                 <a className="brand-logo">
-                  <img height={175} width={175} src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                  <img height={100} width={100} src="assets/images/logo/logo-1.png" alt="Site Logo" />
                 </a>
               </Link>
             </div>
