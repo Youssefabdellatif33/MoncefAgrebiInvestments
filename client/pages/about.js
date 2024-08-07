@@ -16,7 +16,7 @@ const About = () => {
               <div className="about-content-box content-box-gap mb-50">
                 <div className="section-title section-title-left wow fadeInUp mb-30">
                   <span className="sub-title">About Us</span>
-                  <h2>We’re Best Agriculture &amp; Organic Firms</h2>
+                  <h2>We’re the Best Camel Firms</h2>
                 </div>
                 <p>
                   Natus error sit voluptatem accusantium doloremque laudatium,

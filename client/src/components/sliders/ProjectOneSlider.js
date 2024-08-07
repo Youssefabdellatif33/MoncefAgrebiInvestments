@@ -66,8 +66,9 @@ export default class ProjectOneSlider extends Component {
             <div className="project-item wow fadeInDown">
               <div className="img-holder">
                 <img
-                  src="assets/images/portfolio/img-2.jpg"
+                  src="assets/images/about/Camel9.jpg"
                   alt="Gallery Image"
+                  style={{height:338}}
                 />
                 <div className="hover-portfolio">
                   <div className="hover-content">
@@ -106,8 +107,9 @@ export default class ProjectOneSlider extends Component {
             <div className="project-item wow fadeInDown">
               <div className="img-holder">
                 <img
-                  src="assets/images/portfolio/img-2.jpg"
+                  src="assets/images/about/Camel9.jpg"
                   alt="Gallery Image"
+                  style={{height:338}}
                 />
                 <div className="hover-portfolio">
                   <div className="hover-content">

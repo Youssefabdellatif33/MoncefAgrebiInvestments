@@ -14,7 +14,7 @@ const Services = () => {
             <div className="col-lg-6">
               <div className="section-title section-title-left mb-50 wow fadeInLeft">
                 <span className="sub-title">Healthy Foods</span>
-                <h2>What We Provide For Your Better Health</h2>
+                <h2>What We Provide For Your Better Health for your Camel</h2>
               </div>
             </div>
             <div className="col-lg-6 mb-50">
@@ -129,7 +129,7 @@ const Services = () => {
                   <div className="skill-two_content-box content-box-gap mb-40 wow fadeInUp">
                     <div className="section-title section-title-left mb-30">
                       <span className="sub-title">Experience</span>
-                      <h2>We’re Best Agriculture &amp; Organic Firms</h2>
+                      <h2>We’re the Best Camel Firms</h2>
                     </div>
                     <p>
                       Natus error sit voluptatem accusantium doloremque
@@ -194,7 +194,7 @@ const Services = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Fresh Avocado</a>
+                      <a>Fresh Grasses</a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -207,7 +207,7 @@ const Services = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Organic Carrot</a>
+                      <a>Leaves and Twings</a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -220,7 +220,7 @@ const Services = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Organic Carrot</a>
+                      <a>Leaves and Twings</a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -229,10 +229,10 @@ const Services = () => {
             </div>
             <div className="col-lg-4">
               <div className="img-holder mb-50 wow fadeInDown">
-                <img
+                {/* <img
                   src="assets/images/service/img-1.jpg"
                   alt="Service Image"
-                />
+                /> */}
               </div>
             </div>
             <div className="col-lg-4">
@@ -243,7 +243,7 @@ const Services = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Organic Corn</a>
+                      <a>Wheat</a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -269,7 +269,7 @@ const Services = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Fresh Dragon Fruit</a>
+                      <a>Oats</a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>

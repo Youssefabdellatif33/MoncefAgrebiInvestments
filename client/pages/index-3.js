@@ -23,7 +23,7 @@ const Index3 = () => {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero_three-slider-1.jpg)",
+                  "url(assets/images/about/Camel9.jpg)",
               }}
             />
             <div className="brand-card dark-black-bg">
@@ -39,7 +39,50 @@ const Index3 = () => {
                       data-animation="fadeInDown"
                       data-delay=".4s"
                     >
-                      Organic Farms
+                    Camel farm
+                    </span>
+                    {/* <h1 data-animation="fadeInUp" data-delay=".5s">
+                      Agriculture Farming
+                    </h1> */}
+                    <div
+                      className="hero-button"
+                      data-animation="fadeInDown"
+                      data-delay=".6s"
+                    >
+                      <Link href="/about">
+                        <a className="main-btn btn-yellow">Learn About Us</a>
+                      </Link>
+                      <Link href="/portfolio-grid">
+                        <a className="main-btn btn-white">Latest Project</a>
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="single-slider p-r z-1">
+            <div
+              className="image-layer bg_cover"
+              style={{
+                backgroundImage:
+                  "url(assets/images/about/Camel9.jpg)",
+              }}
+            />
+            <div className="brand-card dark-black-bg">
+              <img src="assets/images/icon/wheat.png" alt="" />
+              <h3>Orgarium</h3>
+            </div>
+            <div className="container">
+              <div className="row">
+                <div className="col-lg-6">
+                  <div className="hero-content text-white">
+                    <span
+                      className="tag-line"
+                      data-animation="fadeInDown"
+                      data-delay=".4s"
+                    >
+                      Camel farm
                     </span>
                     <h1 data-animation="fadeInUp" data-delay=".5s">
                       Agriculture Farming
@@ -66,7 +109,7 @@ const Index3 = () => {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero_three-slider-2.jpg)",
+                  "url(assets/images/about/Camel9.jpg)",
               }}
             />
             <div className="brand-card dark-black-bg">
@@ -82,54 +125,11 @@ const Index3 = () => {
                       data-animation="fadeInDown"
                       data-delay=".4s"
                     >
-                      Organic Farms
+                     Camel farm
                     </span>
-                    <h1 data-animation="fadeInUp" data-delay=".5s">
+                    {/* <h1 data-animation="fadeInUp" data-delay=".5s">
                       Agriculture Farming
-                    </h1>
-                    <div
-                      className="hero-button"
-                      data-animation="fadeInDown"
-                      data-delay=".6s"
-                    >
-                      <Link href="/about">
-                        <a className="main-btn btn-yellow">Learn About Us</a>
-                      </Link>
-                      <Link href="/portfolio-grid">
-                        <a className="main-btn btn-white">Latest Project</a>
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="single-slider p-r z-1">
-            <div
-              className="image-layer bg_cover"
-              style={{
-                backgroundImage:
-                  "url(assets/images/hero/hero_three-slider-3.jpg)",
-              }}
-            />
-            <div className="brand-card dark-black-bg">
-              <img src="assets/images/icon/wheat.png" alt="" />
-              <h3>Orgarium</h3>
-            </div>
-            <div className="container">
-              <div className="row">
-                <div className="col-lg-6">
-                  <div className="hero-content text-white">
-                    <span
-                      className="tag-line"
-                      data-animation="fadeInDown"
-                      data-delay=".4s"
-                    >
-                      Organic Farms
-                    </span>
-                    <h1 data-animation="fadeInUp" data-delay=".5s">
-                      Agriculture Farming
-                    </h1>
+                    </h1> */}
                     <div
                       className="hero-button"
                       data-animation="fadeInDown"
@@ -159,7 +159,7 @@ const Index3 = () => {
               <i className="flaticon-tractor" />
             </div>
             <div className="text">
-              <h5>Modern Agriculture Equipment</h5>
+              <h5>Modern Agriculture </h5>
             </div>
           </div>
           <div className="features-item-two">
@@ -223,7 +223,7 @@ const Index3 = () => {
               <div className="about-content_box content-box-gap pl-lg-60">
                 <div className="section-title section-title-left mb-15 wow fadeInUp">
                   <span className="sub-title">About Us</span>
-                  <h2>We’re Best Agriculture &amp; Organic Firms</h2>
+                  <h2>We’re the Best Camel Firms</h2>
                 </div>
                 <p>
                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -409,7 +409,7 @@ const Index3 = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="section-title section-title-white text-center mb-50 wow fadeInDown">
                 <span className="sub-title">Healthy Foods</span>
-                <h2>What We Provide For Your Better Health</h2>
+                <h2>What We Provide For Your Better Health for your Camel</h2>
               </div>
             </div>
           </div>
@@ -784,7 +784,7 @@ const Index3 = () => {
             <div className="project-item-two wow fadeInUp">
               <div className="img-holder">
                 <img
-                  src="assets/images/portfolio/img-26.jpg"
+                  src="assets/images/about/Camel9.jpg"
                   alt="project image"
                 />
                 <div className="hover-portfolio">
@@ -832,7 +832,7 @@ const Index3 = () => {
             <div className="project-item-two wow fadeInUp">
               <div className="img-holder">
                 <img
-                  src="assets/images/portfolio/img-26.jpg"
+                  src="assets/images/about/Camel2.jpg"
                   alt="project image"
                 />
                 <div className="hover-portfolio">
