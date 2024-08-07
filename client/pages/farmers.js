@@ -381,7 +381,7 @@ const Farmers = () => {
                   <div className="skill-one_content-box content-box-gap mb-40 wow fadeInRight">
                     <div className="section-title section-title-left mb-30">
                       <span className="sub-title">Experience</span>
-                      <h2>We’re Best Agriculture &amp; Organic Firms</h2>
+                      <h2>We’re the Best Camel Firms</h2>
                     </div>
                     <p>
                       Natus error sit voluptatem accusantium doloremque

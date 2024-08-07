@@ -5,6 +5,7 @@ import OrgariumCounter from "../src/components/OrgariumCounter";
 import ProgressBar from "../src/components/ProgressBar";
 import ProjectOneSlider from "../src/components/sliders/ProjectOneSlider";
 import Layout from "../src/layouts/Layout";
+import iconImage from '../public/assets/images/icon/chameau.png'
 import {
   heroSliderOne,
   logoSlider,
@@ -20,7 +21,7 @@ const Index = () => {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero_one-slider-1.jpg)",
+                  "url(assets/images/about/Camel9.jpg)",
               }}
             />
             <div className="container">
@@ -32,10 +33,10 @@ const Index = () => {
                       data-animation="fadeInDown"
                       data-delay=".4s"
                     >
-                      Organic Farms
+                     Camel farm
                     </span>
                     <h1 data-animation="fadeInUp" data-delay=".5s">
-                      Agriculture &amp; Organic Farms
+                       Camel farm
                     </h1>
                     <div
                       className="hero-button"
@@ -61,7 +62,7 @@ const Index = () => {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero_one-slider-2.jpg)",
+                  "url(assets/images/service/Camel5.jpg)",
               }}
             />
             <div className="container">
@@ -73,10 +74,10 @@ const Index = () => {
                       data-animation="fadeInDown"
                       data-delay=".4s"
                     >
-                      Organic Farms
+                      Camel farm
                     </span>
                     <h1 data-animation="fadeInUp" data-delay=".5s">
-                      Welcome to Organic Farms
+                      Welcome to camel farm
                     </h1>
                     <div
                       className="hero-button"
@@ -102,7 +103,7 @@ const Index = () => {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero_one-slider-3.jpg)",
+                  "url(assets/images/about/Camel0.jpg)",
               }}
             />
             <div className="container">
@@ -114,10 +115,10 @@ const Index = () => {
                       data-animation="fadeInDown"
                       data-delay=".4s"
                     >
-                      Organic Farms
+                      Camel farm
                     </span>
                     <h1 data-animation="fadeInUp" data-delay=".5s">
-                      Organic &amp; Fresh Testy Foods
+                        Fresh Camel Foods
                     </h1>
                     <div
                       className="hero-button"
@@ -143,7 +144,7 @@ const Index = () => {
               className="image-layer bg_cover"
               style={{
                 backgroundImage:
-                  "url(assets/images/hero/hero_one-slider-4.jpg)",
+                  "url(assets/images/about/Camel2.jpg)",
               }}
             />
             <div className="container">
@@ -155,10 +156,10 @@ const Index = () => {
                       data-animation="fadeInDown"
                       data-delay=".4s"
                     >
-                      Organic Farms
+                     Camel farm
                     </span>
                     <h1 data-animation="fadeInUp" data-delay=".5s">
-                      Welcome to Organic Farms
+                      Welcome to Camel farm
                     </h1>
                     <div
                       className="hero-button"
@@ -194,9 +195,9 @@ const Index = () => {
                     <i className="flaticon-email" />
                   </div>
                   <div className="text">
-                    <h5>Modern Agriculture Equipment</h5>
+                    <h5>Modern Camel Farming</h5>
                     <p>
-                      Sit amet consectetur adipiscing elit sed eiusmod tempor
+                    The Emirates Industry for Camel Milk and Products is the world's first and only camel farm to specialise in milk production on a large scale
                     </p>
                   </div>
                 </div>
@@ -242,7 +243,7 @@ const Index = () => {
               <div className="about-one_content-box mb-50">
                 <div className="section-title section-title-left mb-30 wow fadeInUp">
                   <span className="sub-title">About Us</span>
-                  <h2>We’re Best Agriculture &amp; Organic Firms</h2>
+                  <h2>We’re the Best Camel Firms</h2>
                 </div>
                 <div
                   className="quote-text mb-35 wow fadeInDown"
@@ -331,10 +332,10 @@ const Index = () => {
             <div className="col-xl-7 col-lg-6">
               <div className="about-one_image-box p-r mb-50 pl-100">
                 <div className="about-img_one wow fadeInLeft">
-                  <img src="assets/images/about/img-1.jpg" alt="About Image" />
+                  <img src="assets/images/about/Camel3.jpg" alt="About Image"  style={{width:300 ,height:230}}/>
                 </div>
                 <div className="about-img_two wow fadeInRight">
-                  <img src="assets/images/about/img-2.jpg" alt="About Image" />
+                  <img src="assets/images/about/Camel4.jpg" alt="About Image"  style={{width:700 , marginLeft:120 , height:420}} />
                 </div>
               </div>
             </div>
@@ -359,7 +360,7 @@ const Index = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="section-title section-title-white text-center mb-60 wow fadeInUp">
                 <span className="sub-title">Healthy Foods</span>
-                <h2>What We Provide For Your Better Health</h2>
+                <h2>What We Provide For Your Better Health for your Camel</h2>
               </div>
             </div>
           </div>
@@ -506,7 +507,7 @@ const Index = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Fresh Avocado</a>
+                      <a>Fresh Grasses</a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -519,7 +520,7 @@ const Index = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Organic Carrot</a>
+                      <a> Twings </a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -532,7 +533,7 @@ const Index = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Organic Carrot</a>
+                      <a>Leaves </a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -542,8 +543,9 @@ const Index = () => {
             <div className="col-lg-4">
               <div className="img-holder mb-50 wow fadeInDown">
                 <img
-                  src="assets/images/service/img-1.jpg"
+                  src="assets/images/service/Camel5.jpg"
                   alt="Service Image"
+                  style={{height:450, width:700}}
                 />
               </div>
             </div>
@@ -555,7 +557,7 @@ const Index = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Organic Corn</a>
+                      <a>Wheat</a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -581,7 +583,7 @@ const Index = () => {
                 <div className="text">
                   <h3>
                     <Link href="/service-details">
-                      <a>Fresh Dragon Fruit</a>
+                      <a>Oats</a>
                     </Link>
                   </h3>
                   <p>Natus error sit volupt ateme accus antium dolores</p>
@@ -600,11 +602,11 @@ const Index = () => {
               <div
                 className="offer-one_image-box bg_cover mb-50 wow fadeInRight"
                 style={{
-                  backgroundImage: "url(assets/images/bg/offer-bg-1.jpg)",
+                  backgroundImage: "url(assets/images/bg/Camel7.jpg)",
                 }}
               >
                 <div className="content-box">
-                  <h2>35 Years Of Experience in Agriculture</h2>
+                  <h2>Lots Of Experience in Camel breeding</h2>
                 </div>
                 <div className="experience-box">
                   Experience &amp; Professional Team Members
@@ -925,7 +927,7 @@ const Index = () => {
             <div className="col-lg-12">
               <div className="blog-post-item-one mb-30 wow fadeInLeft">
                 <div className="post-thumbnail">
-                  <img src="assets/images/blog/img-1.jpg" alt="Post Image" />
+                  <img src="assets/images/about/Camel0.jpg" alt="Post Image" />
                 </div>
                 <div className="entry-content">
                   <a href="#" className="cat-btn">
@@ -957,7 +959,7 @@ const Index = () => {
               </div>
               <div className="blog-post-item-one mb-30 wow fadeInRight">
                 <div className="post-thumbnail">
-                  <img src="assets/images/blog/img-2.jpg" alt="Post Image" />
+                  <img src="assets/images/about/Camel2.jpg" alt="Post Image" />
                 </div>
                 <div className="entry-content">
                   <a href="#" className="cat-btn">
@@ -989,7 +991,7 @@ const Index = () => {
               </div>
               <div className="blog-post-item-one mb-30 wow fadeInLeft">
                 <div className="post-thumbnail">
-                  <img src="assets/images/blog/img-3.jpg" alt="Post Image" />
+                  <img src="assets/images/blog/foodcamel.jpg" alt="Post Image" />
                 </div>
                 <div className="entry-content">
                   <a href="#" className="cat-btn">

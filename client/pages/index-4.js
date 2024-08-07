@@ -63,7 +63,7 @@ const Index4 = () => {
               <div className="col-xl-6 col-lg-10">
                 <div className="section-title text-center mb-50 wow fadeInDown">
                   <span className="sub-title">Healthy Foods</span>
-                  <h2>What We Provide For Your Better Health</h2>
+                  <h2>What We Provide For Your Better Health for your Camel</h2>
                 </div>
               </div>
             </div>

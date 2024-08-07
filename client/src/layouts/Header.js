@@ -166,7 +166,7 @@ const Header1 = () => (
           <div className="site-branding">
             <Link href="/">
               <a className="brand-logo">
-                <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                {/* <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
               </a>
             </Link>
           </div>
@@ -176,7 +176,7 @@ const Header1 = () => (
               <div className="mobile-logo mb-30 d-block d-xl-none text-center">
                 <Link href="/">
                   <a className="brand-logo">
-                    <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                    {/* <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
                   </a>
                 </Link>
               </div>
@@ -257,7 +257,7 @@ const Header2 = () => (
           <div className="site-branding">
             <Link href="/">
               <a className="brand-logo">
-                <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                {/* <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
               </a>
             </Link>
           </div>
@@ -267,7 +267,7 @@ const Header2 = () => (
               <div className="mobile-logo mb-30 d-block d-xl-none text-center">
                 <Link href="/">
                   <a className="brand-logo">
-                    <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                    {/* <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
                   </a>
                 </Link>
               </div>
@@ -327,12 +327,12 @@ const Header3 = ({ overlayPanel, togglePanel }) => (
             <div className="site-branding">
               <Link href="/">
                 <a className="brand-logo">
-                  <img src="assets/images/logo/logo-3.png" alt="Site Logo" />
+                  {/* <img src="assets/images/logo/logo-3.png" alt="Site Logo" /> */}
                 </a>
               </Link>
               <Link href="/">
                 <a className="sticky-logo">
-                  <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                  {/* <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
                 </a>
               </Link>
             </div>
@@ -346,7 +346,7 @@ const Header3 = ({ overlayPanel, togglePanel }) => (
                     <a className="brand-logo">
                       <img
                         src="assets/images/logo/logo-1.png"
-                        alt="Site Logo"
+                        // alt="Site Logo"
                       />
                     </a>
                   </Link>
@@ -457,12 +457,12 @@ const Header4 = ({ overlayPanel, togglePanel }) => (
             <div className="site-branding">
               <Link href="/">
                 <a className="brand-logo">
-                  <img src="assets/images/logo/logo-3.png" alt="Site Logo" />
+                  {/* <img src="assets/images/logo/logo-3.png" alt="Site Logo" /> */}
                 </a>
               </Link>
               <Link href="/index-4">
                 <a className="sticky-logo">
-                  <img src="assets/images/logo/logo-2.png" alt="Site Logo" />
+                  {/* <img src="assets/images/logo/logo-2.png" alt="Site Logo" /> */}
                 </a>
               </Link>
             </div>
@@ -479,7 +479,7 @@ const Header4 = ({ overlayPanel, togglePanel }) => (
                     <a className="brand-logo">
                       <img
                         src="assets/images/logo/logo-1.png"
-                        alt="Site Logo"
+                        // alt="Site Logo"
                       />
                     </a>
                   </Link>
@@ -590,12 +590,12 @@ const DefaultHeader = () => (
           <div className="site-branding">
             <Link href="/">
               <a className="brand-logo">
-                <img src="assets/images/logo/logo-3.png" alt="Site Logo" />
+                {/* <img src="assets/images/logo/logo-3.png" alt="Site Logo" /> */}
               </a>
             </Link>
             <Link href="/">
               <a className="sticky-logo">
-                <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                {/* <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
               </a>
             </Link>
           </div>
@@ -607,7 +607,7 @@ const DefaultHeader = () => (
               <div className="mobile-logo mb-30 d-block d-xl-none text-center">
                 <Link href="/">
                   <a className="brand-logo">
-                    <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                    {/* <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
                   </a>
                 </Link>
               </div>

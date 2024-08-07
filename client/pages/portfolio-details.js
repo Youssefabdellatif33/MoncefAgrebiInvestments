@@ -184,7 +184,7 @@ const PortfolioDetails = () => {
             <div className="project-item wow fadeInDown">
               <div className="img-holder">
                 <img
-                  src="assets/images/portfolio/img-2.jpg"
+                  src="assets/images/about/Camel2.jpg"
                   alt="Gallery Image"
                 />
                 <div className="hover-portfolio">
@@ -224,8 +224,9 @@ const PortfolioDetails = () => {
             <div className="project-item wow fadeInDown">
               <div className="img-holder">
                 <img
-                  src="assets/images/portfolio/img-2.jpg"
+                  src="assets/images/about/Camel2.jpg"
                   alt="Gallery Image"
+                  style={{height:500}}
                 />
                 <div className="hover-portfolio">
                   <div className="hover-content">
