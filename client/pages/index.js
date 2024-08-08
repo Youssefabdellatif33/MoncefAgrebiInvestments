@@ -197,7 +197,7 @@ const Index = () => {
                   <div className="text">
                     <h5>Modern Camel Farming</h5>
                     <p>
-                    The Emirates Industry for Camel Milk and Products is the world's first and only camel farm to specialise in milk production on a large scale
+                    The Emirates Industry for Camel Milk and Products is the worlds first and only camel farm to specialise in milk production on a large scale
                     </p>
                   </div>
                 </div>
