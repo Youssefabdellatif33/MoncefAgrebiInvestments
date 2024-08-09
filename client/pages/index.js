@@ -192,8 +192,8 @@ const Index = () => {
                 <div className="features-item d-flex mb-30">
                   <div className="fill-number">01</div>
                   <div className="icon">
-                    <i className="flaticon-tractor" />
-                  </div>
+                  <img width="50" height="40" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/external-camel-origami-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" alt="external-camel-origami-vitaliy-gorbachev-lineal-vitaly-gorbachev"/>
+                </div>
                   <div className="text">
                     <h5>Modern Camel Farming</h5>
                     <p>
@@ -209,7 +209,7 @@ const Index = () => {
                     <i className="flaticon-agriculture" />
                   </div>
                   <div className="text">
-                    <h5>Organic and Fresh Harvest of Wheat</h5>
+                    <h5>Camel fresh food </h5>
                     <p>
                       Sit amet consectetur adipiscing elit sed eiusmod tempor
                     </p>
@@ -223,7 +223,7 @@ const Index = () => {
                     <i className="flaticon-social-care" />
                   </div>
                   <div className="text">
-                    <h5>Lot’s Of Professional &amp; Expert Farmers</h5>
+                    <h5>  Camel breeding</h5>
                     <p>
                       Sit amet consectetur adipiscing elit sed eiusmod tempor
                     </p>
@@ -250,9 +250,11 @@ const Index = () => {
                   data-wow-delay=".3s"
                 >
                   <p>
-                    Sed ut perspiciatis omnis natus error volup accusantiue
-                    doloremque laudantium totam aperiam eaque quae abllcs
-                    veritatis quasi architecto beatae vitae.
+                  Camels live in deserts, where it is hot and dry.
+                   Camels have adapted and found ways to help them survive in deserts.
+                    They have a thick coat of hair that protects them from the heat in the day,
+                     and keeps them warm at night. Their large feet spreads their weight on the sand when they are walking.
+                   When there is food and water
                   </p>
                 </div>
                 <Tab.Container defaultActiveKey={"mission"}>
@@ -335,7 +337,7 @@ const Index = () => {
                   <img src="assets/images/about/Camel3.jpg" alt="About Image"  style={{width:300 ,height:230}}/>
                 </div>
                 <div className="about-img_two wow fadeInRight">
-                  <img src="assets/images/about/Camel4.jpg" alt="About Image"  style={{width:700 , marginLeft:120 , height:420}} />
+                  <img src="assets/images/about/Camel4.jpg" alt="About Image"  style={{width:700 ,  height:420}} />
                 </div>
               </div>
             </div>
@@ -396,12 +398,16 @@ const Index = () => {
             <div className="col-xl-2 col-lg-4 col-md-4 col-sm-12">
               <div className="service-box text-center mb-70 wow fadeInUp">
                 <div className="icon">
-                  <i className="flaticon-cow" />
+                {/* <img width="60" height="60"  src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/external-camel-origami-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" alt="external-camel-origami-vitaliy-gorbachev-lineal-vitaly-gorbachev"/> */}
+                <img width="64" height="64" color="bleu" src="https://img.icons8.com/external-line-adri-ansyah/64/000000/external-Camel-animals-line-adri-ansyah.png" alt="external-Camel-animals-line-adri-ansyah"/>
+
+                {/* 
+                <img width="70" height="50" src="https://img.icons8.com/ios-glyphs/30/--camel.png" alt="--camel"/> */}
                 </div>
                 <div className="text">
                   <h3 className="title">
                     <Link href="/service-details">
-                      <a>Cows Meat and Milk</a>
+                      <a>Camel Meat and Milk</a>
                     </Link>
                   </h3>
                 </div>
