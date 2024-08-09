@@ -460,9 +460,9 @@ const Index = () => {
             <div className="col-lg-12">
               <div
                 className="play-one_content-box bg_cover wow fadeInDown"
-                style={{
-                  backgroundImage: "url(assets/images/bg/intro-bg-1.jpg)",
-                }}
+                // style={{
+                //   backgroundImage: "url(assets/images/bg/intro-bg-1.jpg)",
+                // }}
               >
                 <a
                   href="https://www.youtube.com/watch?v=gOZ26jO6iXE"

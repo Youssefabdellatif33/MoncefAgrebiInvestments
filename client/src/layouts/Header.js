@@ -70,7 +70,7 @@ const Header1 = () => (
           <div className="col-xl-6 col-lg-12 col-md-12 col-6">
             <div className="top-bar-left d-flex align-items-center">
               <span className="text">
-                Welcome to Agriculture
+                Welcome to Camel life
               </span>
               <span className="lang-dropdown">
                 <select className="wide">
@@ -120,7 +120,7 @@ const Header1 = () => (
             <div className="site-branding d-lg-block d-none">
               <Link href="/">
                 <a className="brand-logo">
-                  {/* <img height={175} width={175} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
+                  <img height={100} width={140} src="assets/images/logo/logo-1.png" alt="Site Logo" />
                 </a>
               </Link>
             </div>
@@ -207,7 +207,7 @@ const Header2 = () => (
           <div className="col-xl-6 col-lg-12 col-md-12 col-6">
             <div className="top-bar-left d-flex align-items-center">
               <span className="text">
-                Welcome to Agriculture &amp; Organic Food Template
+              Welcome to Camel life
               </span>
               <span className="lang-dropdown">
                 <select className="wide">
@@ -538,7 +538,7 @@ const DefaultHeader = () => (
           <div className="col-xl-6 col-lg-12 col-md-12 col-6">
             <div className="top-bar-left d-flex align-items-center">
               <span className="text">
-                Welcome to Agriculture &amp; Organic Food Template
+              Welcome to Camel life
               </span>
               <span className="lang-dropdown">
                 <select className="wide">
@@ -589,8 +589,11 @@ const DefaultHeader = () => (
           {/* Site Branding */}
           <div className="site-branding">
             <Link href="/">
-              <a className="brand-logo">
-                {/* <img src="assets/images/logo/logo-3.png" alt="Site Logo" /> */}
+              <a className="brand-logo"
+             >
+                
+                <img src="assets/images/icon/chameau.png" alt="Site Logo" 
+                style={{width:70}}/>
               </a>
             </Link>
             <Link href="/">
@@ -607,7 +610,7 @@ const DefaultHeader = () => (
               <div className="mobile-logo mb-30 d-block d-xl-none text-center">
                 <Link href="/">
                   <a className="brand-logo">
-                    {/* <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" /> */}
+                    <img height={125} width={125} src="assets/images/logo/logo-1.png" alt="Site Logo" />
                   </a>
                 </Link>
               </div>

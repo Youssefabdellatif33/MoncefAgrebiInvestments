@@ -51,12 +51,12 @@ const About = () => {
             <div className="col-lg-6">
               <div className="about-four_image-box text-right p-r mb-50 wow fadeInRight">
                 <img
-                  src="assets/images/about/4.jpg"
+                  src="assets/images/about/camelfarm.jpg"
                   className="about-img_one"
                   alt=""
                 />
                 <img
-                  src="assets/images/about/5.jpg"
+                  src="assets/images/about/camelfarm.jpg"
                   className="about-img_two"
                   alt=""
                 />

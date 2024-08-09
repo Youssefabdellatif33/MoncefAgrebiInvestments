@@ -28,7 +28,7 @@ const Index3 = () => {
             />
             <div className="brand-card dark-black-bg">
               <img src="assets/images/icon/wheat.png" alt="" />
-              <h3>Orgarium</h3>
+              {/* <h3>Orgarium</h3> */}
             </div>
             <div className="container">
               <div className="row">
@@ -71,7 +71,7 @@ const Index3 = () => {
             />
             <div className="brand-card dark-black-bg">
               <img src="assets/images/icon/wheat.png" alt="" />
-              <h3>Orgarium</h3>
+              {/* <h3>Orgarium</h3> */}
             </div>
             <div className="container">
               <div className="row">
@@ -114,7 +114,7 @@ const Index3 = () => {
             />
             <div className="brand-card dark-black-bg">
               <img src="assets/images/icon/wheat.png" alt="" />
-              <h3>Orgarium</h3>
+              {/* <h3>Orgarium</h3> */}
             </div>
             <div className="container">
               <div className="row">
