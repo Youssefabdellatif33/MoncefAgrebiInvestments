@@ -132,10 +132,7 @@ const Services = () => {
                       <h2>We’re the Best Camel Firms</h2>
                     </div>
                     <p>
-                      Natus error sit voluptatem accusantium doloremque
-                      laudatium, totam rem aperiam, eaque ipsa quae ab illo
-                      inventore veritatis et quasi architecto beatae vitae dicta
-                      sunt
+                    
                     </p>
                     <div className="skill-bar">
                       <div className="skill-title">

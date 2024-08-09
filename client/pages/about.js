@@ -19,9 +19,7 @@ const About = () => {
                   <h2>We’re the Best Camel Firms</h2>
                 </div>
                 <p>
-                  Natus error sit voluptatem accusantium doloremque laudatium,
-                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-                  et quasi architecto beatae vitae dicta sunt
+                 
                 </p>
                 <div className="choose-item-list wow fadeInDown">
                   <div className="single-choose-item mb-30">
@@ -53,12 +51,12 @@ const About = () => {
             <div className="col-lg-6">
               <div className="about-four_image-box text-right p-r mb-50 wow fadeInRight">
                 <img
-                  src="assets/images/about/4.jpg"
+                  src="assets/images/about/camelfarm.jpg"
                   className="about-img_one"
                   alt=""
                 />
                 <img
-                  src="assets/images/about/5.jpg"
+                  src="assets/images/about/camelfarm.jpg"
                   className="about-img_two"
                   alt=""
                 />

@@ -101,7 +101,7 @@ const ServicesDetails = () => {
                           <i className="flaticon-tractor" />
                         </div>
                         <div className="text">
-                          <h5>Organic and Fresh Harvest of Wheat</h5>
+                          <h5>Organic </h5>
                         </div>
                       </div>
                     </div>

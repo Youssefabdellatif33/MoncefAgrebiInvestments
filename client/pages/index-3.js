@@ -28,7 +28,7 @@ const Index3 = () => {
             />
             <div className="brand-card dark-black-bg">
               <img src="assets/images/icon/wheat.png" alt="" />
-              <h3>Orgarium</h3>
+              {/* <h3>Orgarium</h3> */}
             </div>
             <div className="container">
               <div className="row">
@@ -71,7 +71,7 @@ const Index3 = () => {
             />
             <div className="brand-card dark-black-bg">
               <img src="assets/images/icon/wheat.png" alt="" />
-              <h3>Orgarium</h3>
+              {/* <h3>Orgarium</h3> */}
             </div>
             <div className="container">
               <div className="row">
@@ -114,7 +114,7 @@ const Index3 = () => {
             />
             <div className="brand-card dark-black-bg">
               <img src="assets/images/icon/wheat.png" alt="" />
-              <h3>Orgarium</h3>
+              {/* <h3>Orgarium</h3> */}
             </div>
             <div className="container">
               <div className="row">
@@ -168,7 +168,7 @@ const Index3 = () => {
               <i className="flaticon-agriculture" />
             </div>
             <div className="text">
-              <h5>Organic and Fresh Harvest of Wheat</h5>
+              <h5>Organic</h5>
             </div>
           </div>
           <div className="features-item-two">
@@ -226,10 +226,7 @@ const Index3 = () => {
                   <h2>We’re the Best Camel Firms</h2>
                 </div>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam eaque
-                  quae abillo inventore veritatis et quasi architecto beatae
-                  vitae dicta sunt explicabo enim ipsam voluptatem quia
+                  
                 </p>
                 <div className="row">
                   <div className="col-md-4 col-sm-12">
