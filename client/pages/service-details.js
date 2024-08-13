@@ -13,11 +13,11 @@ const ServicesDetails = () => {
             <div className="col-xl-8 col-lg-7">
               <div className="service-details-wrapper">
                 <div className="img-holder wow fadeInUp">
-                  <img src="assets/images/service/single-img-1.jpg" alt="" />
+                  <img src="assets/images/service/Camel5.jpg" alt="" />
                 </div>
                 <div className="content text-center wow fadeInDown">
                   <h3 className="title">
-                    Organic Fresh Whats &amp; Vegetables
+                    Organic Fresh Food
                   </h3>
                   <p>
                     Nemo enim epsam voluptatem quia voluptas sit aspernatur aut
@@ -73,7 +73,7 @@ const ServicesDetails = () => {
                     </div>
                   </div>
                   <div className="content-img wow fadeInDown">
-                    <img src="assets/images/service/single-img-2.jpg" alt="" />
+                    <img src="assets/images/service/Camelfarm.jpg" alt="" />
                   </div>
                   <h4>Benitif Agriculture Foods</h4>
                   <p>
@@ -91,7 +91,7 @@ const ServicesDetails = () => {
                           <i className="flaticon-tractor" />
                         </div>
                         <div className="text">
-                          <h5>Modern Agriculture Equipment</h5>
+                          <h5>Modern Camel Farmers</h5>
                         </div>
                       </div>
                     </div>
@@ -152,23 +152,23 @@ const ServicesDetails = () => {
                   <ul className="category-nav">
                     <li>
                       <a href="#">
-                        Organic Vegetables
+                         Vegetables
                         <span>
                           <i className="far fa-arrow-right" />
                         </span>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      {/* <a href="#">
                         Fresh Jack Fruits
                         <span>
                           <i className="far fa-arrow-right" />
                         </span>
-                      </a>
+                      </a> */}
                     </li>
                     <li>
                       <a href="#">
-                        Chicken Meat &amp; Eggs
+                        Camel milk
                         <span>
                           <i className="far fa-arrow-right" />
                         </span>
@@ -176,7 +176,7 @@ const ServicesDetails = () => {
                     </li>
                     <li>
                       <a href="#">
-                        Organic Wheats
+                         Wheats
                         <span>
                           <i className="far fa-arrow-right" />
                         </span>
@@ -184,7 +184,7 @@ const ServicesDetails = () => {
                     </li>
                     <li>
                       <a href="#">
-                        Cow Meat &amp; Milk
+                      Grasses
                         <span>
                           <i className="far fa-arrow-right" />
                         </span>
@@ -247,7 +247,8 @@ const ServicesDetails = () => {
           <Slider {...serviceSliderOne} className="service-slider-one">
             <div className="single-service-item-two text-center wow fadeInUp">
               <div className="img-holder">
-                <img src="assets/images/service/img-2.jpg" alt="" />
+                <img src="assets/images/service/flower.jpg" alt="" 
+                style={{height:280}}/>
               </div>
               <div className="text">
                 <h3 className="title">
@@ -266,12 +267,13 @@ const ServicesDetails = () => {
             </div>
             <div className="single-service-item-two text-center wow fadeInDown">
               <div className="img-holder">
-                <img src="assets/images/service/img-3.jpg" alt="" />
+                <img src="assets/images/service/milk.jpg" alt=""
+                style={{height:280}} />
               </div>
               <div className="text">
                 <h3 className="title">
                   <Link href="/service-details">
-                    <a>Milks &amp; Meat</a>
+                    <a>Camel Milk</a>
                   </Link>
                 </h3>
                 <p>
@@ -285,12 +287,13 @@ const ServicesDetails = () => {
             </div>
             <div className="single-service-item-two text-center wow fadeInUp">
               <div className="img-holder">
-                <img src="assets/images/service/img-4.jpg" alt="" />
+                <img src="assets/images/service/came.jpg" alt="" 
+                style={{height:280}}/>
               </div>
               <div className="text">
                 <h3 className="title">
                   <Link href="/service-details">
-                    <a>Organic Fruits</a>
+                    <a>Camel breeding</a>
                   </Link>
                 </h3>
                 <p>
@@ -304,12 +307,13 @@ const ServicesDetails = () => {
             </div>
             <div className="single-service-item-two text-center wow fadeInDown">
               <div className="img-holder">
-                <img src="assets/images/service/img-3.jpg" alt="" />
+                <img src="assets/images/service/milk.jpg" alt=""
+                style={{height:280}} />
               </div>
               <div className="text">
                 <h3 className="title">
                   <Link href="/service-details">
-                    <a>Milks &amp; Meat</a>
+                    <a>Camel Milk</a>
                   </Link>
                 </h3>
                 <p>

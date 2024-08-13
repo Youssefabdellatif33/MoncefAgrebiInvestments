@@ -413,7 +413,7 @@ const Index3 = () => {
           <Slider {...serviceSliderOne} className="service-slider-one">
             <div className="single-service-item-two text-center wow fadeInUp">
               <div className="img-holder">
-                <img src="assets/images/service/img-2.jpg" alt="" />
+                <img src="assets/images/service/flower.jpg" alt="" />
               </div>
               <div className="text">
                 <h3 className="title">
@@ -432,12 +432,13 @@ const Index3 = () => {
             </div>
             <div className="single-service-item-two text-center wow fadeInDown">
               <div className="img-holder">
-                <img src="assets/images/service/img-3.jpg" alt="" />
+                <img src="assets/images/service/milk.jpg" alt=""
+                style={{height:280}} />
               </div>
               <div className="text">
                 <h3 className="title">
                   <Link href="/service-details">
-                    <a>Milks &amp; Meat</a>
+                    <a>Camel Milk</a>
                   </Link>
                 </h3>
                 <p>
@@ -451,7 +452,8 @@ const Index3 = () => {
             </div>
             <div className="single-service-item-two text-center wow fadeInUp">
               <div className="img-holder">
-                <img src="assets/images/service/img-4.jpg" alt="" />
+                <img src="assets/images/service/came.jpg" alt="" 
+                style={{height:280}}/>
               </div>
               <div className="text">
                 <h3 className="title">
@@ -470,12 +472,13 @@ const Index3 = () => {
             </div>
             <div className="single-service-item-two text-center wow fadeInDown">
               <div className="img-holder">
-                <img src="assets/images/service/img-3.jpg" alt="" />
+                <img src="assets/images/service/milk.jpg" alt="" 
+                style={{height:280}}/>
               </div>
               <div className="text">
                 <h3 className="title">
                   <Link href="/service-details">
-                    <a>Milks &amp; Meat</a>
+                    <a>Camel Milk</a>
                   </Link>
                 </h3>
                 <p>
