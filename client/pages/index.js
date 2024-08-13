@@ -354,7 +354,7 @@ const Index = () => {
         </div>
         <div className="shape shape-two">
           <span>
-            <img src="assets/images/shape/tree2.png" alt="" />
+            {/* <img src="assets/images/shape/tree2.png" alt="" /> */}
           </span>
         </div>
         <div className="container">
@@ -401,8 +401,8 @@ const Index = () => {
                 {/* <img width="60" height="60"  src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/external-camel-origami-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" alt="external-camel-origami-vitaliy-gorbachev-lineal-vitaly-gorbachev"/> */}
                 <img width="64" height="64" color="bleu" src="https://img.icons8.com/external-line-adri-ansyah/64/000000/external-Camel-animals-line-adri-ansyah.png" alt="external-Camel-animals-line-adri-ansyah"/>
 
-                {/* 
-                <img width="70" height="50" src="https://img.icons8.com/ios-glyphs/30/--camel.png" alt="--camel"/> */}
+                 
+                {/* <img width="70" height="50" src="https://img.icons8.com/ios-glyphs/30/--camel.png" alt="--camel"/>  */}
                 </div>
                 <div className="text">
                   <h3 className="title">
@@ -460,9 +460,9 @@ const Index = () => {
             <div className="col-lg-12">
               <div
                 className="play-one_content-box bg_cover wow fadeInDown"
-                // style={{
-                //   backgroundImage: "url(assets/images/bg/intro-bg-1.jpg)",
-                // }}
+                style={{
+                  backgroundImage: "url(assets/images/about/Camel3.jpg)",
+                }}
               >
                 <a
                   href="https://www.youtube.com/watch?v=gOZ26jO6iXE"
