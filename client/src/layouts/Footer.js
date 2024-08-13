@@ -16,20 +16,20 @@ const DefaultFooter = () => (
     <div className="container">
       <div className="footer-top wow fadeInUp">
         <div className="row">
-          <div className="col-lg-4 col-md-12 footer-contact-item">
-            <div className="contact-info d-flex justify-content-center">
-              <div className="site-logo text-center">
-                <Link href="/">
-                  <a className="brand-logo">
-                    <img
+          {/* <div className="col-lg-4 col-md-12 footer-contact-item"> */}
+            {/* <div className="contact-info d-flex justify-content-center"> */}
+              {/* <div className="site-logo text-center"> */}
+               
+                 
+                    {/* <img
                       src="assets/images/logo/logo-2.png"
                       alt="Footer Logo"
-                    />
-                  </a>
-                </Link>
-              </div>
-            </div>
-          </div>
+                    /> */}
+                 
+            
+              {/* </div> */}
+            {/* </div> */}
+          {/* </div> */}
           <div className="col-lg-4 col-md-12 footer-contact-item">
             <div className="contact-info d-flex">
               <div className="icon">
@@ -110,7 +110,8 @@ const DefaultFooter = () => (
       <div className="footer-copyright">
         <div className="col-lg-12">
           <div className="copyright-text text-center">
-            <p>© 2022 Orgrarium. All Rights Reserved</p>
+            <p>© 2024
+Camel. All Rights Reserved</p>
           </div>
         </div>
       </div>
@@ -176,7 +177,8 @@ const Footer3 = () => (
       <div className="footer-copyright border-top-white-1">
         <div className="col-lg-12">
           <div className="copyright-text text-center">
-            <p>© 2022 Orgrarium. All Rights Reserved</p>
+            <p>© 2024
+Camel. All Rights Reserved</p>
           </div>
         </div>
       </div>
@@ -239,7 +241,8 @@ const Footer4 = () => (
       <div className="footer-copyright border-top-white-1">
         <div className="col-lg-12">
           <div className="copyright-text text-center">
-            <p>© 2022 Orgrarium. All Rights Reserved</p>
+            <p>© 2024
+Camel. All Rights Reserved</p>
           </div>
         </div>
       </div>
@@ -355,7 +358,7 @@ const FooterMenu = () => (
             </div>
           </li>
           <li className="post-item">
-            <img src="assets/images/widget/news-2.jpg" alt="Post Image" />
+            <img src="assets/images/about/Camel.jpg" alt="Post Image" />
             <div className="post-title-date">
               <h3 className="title">
                 <Link href="/blog-details">

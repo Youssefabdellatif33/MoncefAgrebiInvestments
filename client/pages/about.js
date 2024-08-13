@@ -59,6 +59,7 @@ const About = () => {
                   src="assets/images/about/camelfarm.jpg"
                   className="about-img_two"
                   alt=""
+                  style={{marginLeft:-20}}
                 />
               </div>
             </div>
