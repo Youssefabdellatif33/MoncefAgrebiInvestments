@@ -396,10 +396,14 @@ const Index = () => {
               </div>
             </div>
             <div className="col-xl-2 col-lg-4 col-md-4 col-sm-12">
-              <div className="service-box text-center mb-70 wow fadeInUp">
-                <div className="icon">
+              <div className="service-box text-center mb-70 wow fadeInUp"
+              >
+                <div className="icon"
+                >
+                <i className="flaticon-farming"
+                />
                 {/* <img width="60" height="60"  src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/external-camel-origami-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" alt="external-camel-origami-vitaliy-gorbachev-lineal-vitaly-gorbachev"/> */}
-                <img width="64" height="64" color="bleu" src="https://img.icons8.com/external-line-adri-ansyah/64/000000/external-Camel-animals-line-adri-ansyah.png" alt="external-Camel-animals-line-adri-ansyah"/>
+                {/* <img width="64" height="64" color="bleu" src="https://img.icons8.com/external-line-adri-ansyah/64/000000/external-Camel-animals-line-adri-ansyah.png" alt="external-Camel-animals-line-adri-ansyah"/> */}
 
                  
                 {/* <img width="70" height="50" src="https://img.icons8.com/ios-glyphs/30/--camel.png" alt="--camel"/>  */}
@@ -407,7 +411,7 @@ const Index = () => {
                 <div className="text">
                   <h3 className="title">
                     <Link href="/service-details">
-                      <a>Camel Meat and Milk</a>
+                      <a>Longer Life</a>
                     </Link>
                   </h3>
                 </div>

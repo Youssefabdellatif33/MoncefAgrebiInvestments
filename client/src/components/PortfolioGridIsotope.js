@@ -52,42 +52,42 @@ const PortfolioGridIsotope = () => {
                 onClick={handleFilterKeyChange("cat-1")}
                 data-filter=".cat-1"
               >
-                Cow
+                Food
               </li>
               <li
                 className={`c-pointer ${activeBtn("cat-2")}`}
                 onClick={handleFilterKeyChange("cat-2")}
                 data-filter=".cat-2"
               >
-                Vegetables
+                Camel
               </li>
-              <li
+              {/* <li
                 className={`c-pointer ${activeBtn("cat-3")}`}
                 onClick={handleFilterKeyChange("cat-3")}
                 data-filter=".cat-3"
-              >
-                Chicken
-              </li>
-              <li
+              > */}
+                {/* Chicken */}
+              {/* </li> */}
+              {/* <li
                 className={`c-pointer ${activeBtn("cat-4")}`}
                 onClick={handleFilterKeyChange("cat-4")}
                 data-filter=".cat-4"
               >
                 Fruits
-              </li>
-              <li
+              </li> */}
+              {/* <li
                 className={`c-pointer ${activeBtn("cat-5")}`}
                 onClick={handleFilterKeyChange("cat-5")}
                 data-filter=".cat-5"
               >
                 Sea Fish
-              </li>
+              </li> */}
               <li
                 className={`c-pointer ${activeBtn("cat-6")}`}
                 onClick={handleFilterKeyChange("cat-6")}
                 data-filter=".cat-6"
               >
-                Milk &amp; Meats
+                 Meats
               </li>
             </ul>
           </div>
@@ -123,7 +123,8 @@ const PortfolioGridIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-2">
           <div className="project-item-three mb-30 wow fadeInDown">
             <div className="img-holder">
-              <img src="assets/images/portfolio/img-5.jpg" alt="" />
+              <img src="assets/images/about/Camel9.jpg" alt=""
+              style={{height:370}} />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -149,7 +150,8 @@ const PortfolioGridIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-3">
           <div className="project-item-three mb-30 wow fadeInUp">
             <div className="img-holder">
-              <img src="assets/images/portfolio/img-6.jpg" alt="" />
+              <img src="assets/images/about/Camel3.jpg" alt="" 
+              style={{height:375}}/>
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -201,7 +203,8 @@ const PortfolioGridIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-5">
           <div className="project-item-three mb-30 wow fadeInUp">
             <div className="img-holder">
-              <img src="assets/images/portfolio/img-8.jpg" alt="" />
+              <img src="assets/images/about/Camel0.jpg" alt="" 
+                style={{height:370}} />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -253,7 +256,8 @@ const PortfolioGridIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-3 cat-6">
           <div className="project-item-three mb-30 wow fadeInUp">
             <div className="img-holder">
-              <img src="assets/images/portfolio/img-10.jpg" alt="" />
+              <img src="assets/images/about/Camel4.jpg" alt="" 
+              style={{height:370}}/>
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">

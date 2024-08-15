@@ -123,7 +123,7 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-2">
           <div className="project-item-three mb-30 wow fadeInDown">
             <div className="img-holder">
-              <img src="assets/images/portfolio/img-5.jpg" alt="" />
+              <img src="assets/images/about/Camel9.jpg" alt="" />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -149,7 +149,7 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-3">
           <div className="project-item-three mb-30 wow fadeInUp">
             <div className="img-holder">
-              <img src="assets/images/portfolio/img-6.jpg" alt="" />
+              {/* <img src="assets/images/about/Camel3.jpg" alt="" /> */}
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -201,7 +201,8 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-5">
           <div className="project-item-three mb-30 wow fadeInUp">
             <div className="img-holder">
-              <img src="assets/images/portfolio/img-8.jpg" alt="" />
+              <img src="assets/images/about/Camel0.jpg" alt=""
+              style={{height:290}} />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -253,7 +254,7 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-3 cat-6">
           <div className="project-item-three mb-30 wow fadeInUp">
             <div className="img-holder">
-              <img src="assets/images/portfolio/img-10.jpg" alt="" />
+              <img src="assets/images/about/Camel4.jpg" alt="" />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
