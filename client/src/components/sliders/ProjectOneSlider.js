@@ -68,7 +68,7 @@ export default class ProjectOneSlider extends Component {
                 <img
                   src="assets/images/about/Camel9.jpg"
                   alt="Gallery Image"
-                  style={{height:338}}
+                  style={{height:438}}
                 />
                 <div className="hover-portfolio">
                   <div className="hover-content">
@@ -109,7 +109,7 @@ export default class ProjectOneSlider extends Component {
                 <img
                   src="assets/images/about/Camel9.jpg"
                   alt="Gallery Image"
-                  style={{height:338}}
+                  style={{height:438}}
                 />
                 <div className="hover-portfolio">
                   <div className="hover-content">

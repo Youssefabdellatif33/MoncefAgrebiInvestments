@@ -774,7 +774,7 @@ const Index3 = () => {
                   <div className="hover-content">
                     <h3 className="title">
                       <Link href="/portfolio-details">
-                        <a>Cow Eating Gress From Farms</a>
+                        <a>Camel Eating Gress From Farms</a>
                       </Link>
                     </h3>
                   </div>
