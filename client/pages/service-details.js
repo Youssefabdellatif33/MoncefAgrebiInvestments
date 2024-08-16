@@ -234,7 +234,7 @@ const ServicesDetails = () => {
         </div>
       </section>
       {/*====== End service-details-section Section ======*/}
-      <section className="service-section light-gray-bg pt-130 pb-130">
+      {/* <section className="service-section light-gray-bg pt-130 pb-130">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-xl-6 col-lg-10">
@@ -327,7 +327,7 @@ const ServicesDetails = () => {
             </div>
           </Slider>
         </div>
-      </section>{" "}
+      </section>{" "} */}
     </Layout>
   );
 };

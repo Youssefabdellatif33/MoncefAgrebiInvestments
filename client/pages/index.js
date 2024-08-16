@@ -689,7 +689,7 @@ const Index = () => {
       {/*====== End Fancy Text Block Section ======*/}
       {/*====== Start Testimonial Section ======*/}
       <section className="testimonial-one light-gray-bg p-r z-1">
-        <div className="container-fluid">
+        {/* <div className="container-fluid">
           <div className="row justify-content-center">
             <div className="col-xl-6 col-lg-10">
               <div className="section-title text-center mb-60 wow fadeInUp">
@@ -810,7 +810,7 @@ const Index = () => {
               </div>
             </div>
           </Slider>
-        </div>
+        </div> */}
       </section>
       {/*====== End Testimonial Section ======*/}
       {/*====== Start Contact Section ======*/}
@@ -914,7 +914,7 @@ const Index = () => {
       </section>
       {/*====== End Contact Section ======*/}
       {/*====== Start Blog Section ======*/}
-      <section className="blog-section p-r z-1 pt-130 pb-100">
+      {/* <section className="blog-section p-r z-1 pt-130 pb-100">
         <div className="container">
           <div className="row align-items-end">
             <div className="col-xl-7 col-lg-10">
@@ -1034,7 +1034,7 @@ const Index = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/*====== End Blog Section ======*/}
       {/*====== Start Partner Section ======*/}
       <section className="partners-section yellow-bg pt-50 pb-60 p-r z-1">

@@ -362,7 +362,7 @@ const About = () => {
       {/*====== End Farmers Section ======*/}
       {/*====== Start Testimonial Section ======*/}
       <section className="testimonial-section pt-130">
-        <div className="container-fluid">
+        {/* <div className="container-fluid">
           <div className="row justify-content-center">
             <div className="col-xl-6 col-lg-10">
               <div className="section-title text-center mb-60 wow fadeInUp">
@@ -483,7 +483,7 @@ const About = () => {
               </div>
             </div>
           </Slider>
-        </div>
+        </div> */}
       </section>
       {/*====== End Testimonial Section ======*/}
       {/*====== Start Counter Section ======*/}

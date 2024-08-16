@@ -8,7 +8,7 @@ const Contact = () => {
       <PageBanner pageName={"Contact Us"} />
       <section className="contact-information-one p-r z-1 pt-215 pb-130">
         <div className="information-img_one wow fadeInRight">
-          <img src="assets/images/contact/img-1.jpg" alt="Imaged" />
+          <img src="assets/images/contact/CA.jpg" alt="Imaged" />
         </div>
         <div className="container">
           <div className="row">

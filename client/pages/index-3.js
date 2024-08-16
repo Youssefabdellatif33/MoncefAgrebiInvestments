@@ -751,7 +751,7 @@ const Index3 = () => {
               <div className="section-title text-center mb-60 wow fadeInUp">
                 <span className="sub-title">Project Gallery</span>
                 <h2>
-                  We’ve Done Many Other Projects Let’s See Gallery Insights
+                  {/* We’ve Done Many Other Projects Let’s See Gallery Insights */}
                 </h2>
               </div>
             </div>
@@ -871,7 +871,7 @@ const Index3 = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="section-title text-center mb-60 wow fadeInDown">
                 <span className="sub-title">Latest News Blog</span>
-                <h2>Read Latest News &amp; Blog Get Every Updates</h2>
+                {/* <h2>Read Latest News &amp; Blog Get Every Updates</h2> */}
               </div>
             </div>
           </div>
