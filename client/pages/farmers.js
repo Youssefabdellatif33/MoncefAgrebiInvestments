@@ -425,7 +425,7 @@ const Farmers = () => {
       {/*====== End Skill Section ======*/}
       {/*====== Start Testimonial Section ======*/}
       <section className="testimonial-four pt-130 pb-65">
-        <div className="container">
+        {/* <div className="container">
           <div className="row justify-content-center">
             <div className="col-xl-7 col-lg-10">
               <div className="section-title text-center mb-60 wow fadeInUp">
@@ -549,7 +549,7 @@ const Farmers = () => {
               </div>
             </div>
           </Slider>
-        </div>
+        </div> */}
       </section>
     </Layout>
   );

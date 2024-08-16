@@ -116,7 +116,7 @@ const Faqs = () => {
       {/*====== End Contact Section ======*/}
       {/*====== Start Testimonial Section ======*/}
       <section className="testimonial-four pt-130 pb-65">
-        <div className="container">
+        {/* <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-7">
               <div className="section-title text-center mb-60 wow fadeInUp">
@@ -240,7 +240,7 @@ const Faqs = () => {
               </div>
             </div>
           </Slider>
-        </div>
+        </div> */}
       </section>
     </Layout>
   );
