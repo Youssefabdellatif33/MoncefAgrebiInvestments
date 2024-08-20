@@ -3,6 +3,9 @@ import { Component } from "react";
 import Slider from "react-slick";
 import { projectsSliderOne } from "../../sliderProps";
 import { serviceSliderOne } from "../../../src/sliderProps";
+import { useState } from "react";
+
+
 
 export default class ProjectOneSlider extends Component {
   constructor(props) {
