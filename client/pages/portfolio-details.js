@@ -94,19 +94,19 @@ const PortfolioDetails = () => {
                     <div className="col-lg-5">
                       <div className="post-navigation-item prev-navigation d-flex align-items-center">
                         <div className="thumb">
-                          <img
+                          {/* <img
                             src="assets/images/portfolio/prev-nav.jpg"
                             alt=""
-                          />
+                          /> */}
                         </div>
                         <div className="text">
                           <h4>
-                            <Link href="/portfolio-details">
+                            {/* <Link href="/portfolio-details">
                               <a>Organic Vegetables</a>
-                            </Link>
+                            </Link> */}
                           </h4>
                           <p>
-                            <a href="#">Food</a>, <a href="#">Organic</a>
+                            {/* <a href="#">Food</a>, <a href="#">Organic</a> */}
                           </p>
                         </div>
                       </div>
@@ -119,20 +119,20 @@ const PortfolioDetails = () => {
                     <div className="col-lg-5">
                       <div className="post-navigation-item next-navigation d-flex align-items-center">
                         <div className="thumb">
-                          <img
+                          {/* <img
                             src="assets/images/portfolio/next-nav.jpg"
                             alt=""
-                          />
+                          /> */}
                         </div>
                         <div className="text">
                           <h4>
-                            <Link href="/portfolio-details">
+                            {/* <Link href="/portfolio-details">
                               <a>Organic Cows</a>
-                            </Link>
+                            </Link> */}
                           </h4>
-                          <p>
+                          {/* <p>
                             <a href="#">Food</a>, <a href="#">Organic</a>
-                          </p>
+                          </p> */}
                         </div>
                       </div>
                     </div>
@@ -146,124 +146,7 @@ const PortfolioDetails = () => {
       {/*====== End Portfolio Details ======*/}
       {/*====== Start Gallery Section ======*/}
       <section className="projects-section pt-130 pb-130 p-r z-1">
-        <div className="container">
-          <div className="row align-items-end">
-            <div className="col-lg-8 col-md-9">
-              <div className="section-title section-title-left mb-60 wow fadeInLeft">
-                <span className="sub-title">Project Gallery</span>
-                <h2>
-                  We’ve Done Many Other Projects Let’s See Gallery Insights
-                </h2>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-3">
-              <div className="project-arrows mb-60 float-md-right wow fadeInRight" />
-            </div>
-          </div>
-          <Slider {...projectsSliderOne} className="projects-slider-one">
-            <div className="project-item wow fadeInUp">
-              <div className="img-holder">
-                <img
-                  src="assets/images/portfolio/img-1.jpg"
-                  alt="Gallery Image"
-                />
-                <div className="hover-portfolio">
-                  <div className="hover-content">
-                    <h3 className="title">
-                      <Link href="/portfolio-details">
-                        <a>Golder Wheat</a>
-                      </Link>
-                    </h3>
-                    <p>
-                      <a href="#">Agriculture</a>,<a href="#">Foods</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="project-item wow fadeInDown">
-              <div className="img-holder">
-                <img
-                  src="assets/images/about/Camel2.jpg"
-                  alt="Gallery Image"
-                />
-                <div className="hover-portfolio">
-                  <div className="hover-content">
-                    <h3 className="title">
-                      <Link href="/portfolio-details">
-                        <a>Golder Wheat</a>
-                      </Link>
-                    </h3>
-                    <p>
-                      <a href="#">Agriculture</a>,<a href="#">Foods</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="project-item wow fadeInUp">
-              <div className="img-holder">
-                <img
-                  src="assets/images/portfolio/img-3.jpg"
-                  alt="Gallery Image"
-                />
-                <div className="hover-portfolio">
-                  <div className="hover-content">
-                    <h3 className="title">
-                      <Link href="/portfolio-details">
-                        <a>Golder Wheat</a>
-                      </Link>
-                    </h3>
-                    <p>
-                      <a href="#">Agriculture</a>,<a href="#">Foods</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="project-item wow fadeInDown">
-              <div className="img-holder">
-                <img
-                  src="assets/images/about/Camel2.jpg"
-                  alt="Gallery Image"
-                  style={{height:500}}
-                />
-                <div className="hover-portfolio">
-                  <div className="hover-content">
-                    <h3 className="title">
-                      <Link href="/portfolio-details">
-                        <a>Golder Wheat</a>
-                      </Link>
-                    </h3>
-                    <p>
-                      <a href="#">Agriculture</a>,<a href="#">Foods</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="project-item wow fadeInUp">
-              <div className="img-holder">
-                <img
-                  src="assets/images/portfolio/img-3.jpg"
-                  alt="Gallery Image"
-                />
-                <div className="hover-portfolio">
-                  <div className="hover-content">
-                    <h3 className="title">
-                      <Link href="/portfolio-details">
-                        <a>Golder Wheat</a>
-                      </Link>
-                    </h3>
-                    <p>
-                      <a href="#">Agriculture</a>,<a href="#">Foods</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </Slider>
-        </div>
+      
       </section>{" "}
     </Layout>
   );

@@ -177,7 +177,7 @@ export default class ProjectOneSlider extends Component {
                   Sit amet consectetur adipisc elit sed eiusmod tempor incdunt
                   labore et dolore magna
                 </p>
-                <Link href="/service-details">
+                <Link href="/Description">
                   <a className="main-btn btn-yellow">Read More</a>
                 </Link>
               </div>
@@ -189,7 +189,7 @@ export default class ProjectOneSlider extends Component {
               </div>
               <div className="text">
                 <h3 className="title">
-                  <Link href="/service-details">
+                  <Link href="/Description">
                     <a>Majahim</a>
                   </Link>
                 </h3>
@@ -197,7 +197,7 @@ export default class ProjectOneSlider extends Component {
                   Sit amet consectetur adipisc elit sed eiusmod tempor incdunt
                   labore et dolore magna
                 </p>
-                <Link href="/service-details">
+                <Link href="/Description">
                   <a className="main-btn btn-yellow">Read More</a>
                 </Link>
               </div>
@@ -209,7 +209,7 @@ export default class ProjectOneSlider extends Component {
               </div>
               <div className="text">
                 <h3 className="title">
-                  <Link href="/service-details">
+                  <Link href="/Description">
                     <a>Kharai</a>
                   </Link>
                 </h3>
@@ -217,7 +217,7 @@ export default class ProjectOneSlider extends Component {
                   Sit amet consectetur adipisc elit sed eiusmod tempor incdunt
                   labore et dolore magna
                 </p>
-                <Link href="/service-details">
+                <Link href="/Description">
                   <a className="main-btn btn-yellow">Read More</a>
                 </Link>
               </div>
@@ -238,7 +238,7 @@ export default class ProjectOneSlider extends Component {
                   Sit amet consectetur adipisc elit sed eiusmod tempor incdunt
                   labore et dolore magna
                 </p>
-                <Link href="/service-details">
+                <Link href="/Description">
                   <a className="main-btn btn-yellow">Read More</a>
                 </Link>
               </div>
