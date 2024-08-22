@@ -169,7 +169,7 @@ export default class ProjectOneSlider extends Component {
               </div>
               <div className="text">
                 <h3 className="title">
-                  <Link href="/service-details">
+                  <Link href="/Description4">
                     <a>Bactrian camel</a>
                   </Link>
                 </h3>
@@ -177,7 +177,7 @@ export default class ProjectOneSlider extends Component {
                   Sit amet consectetur adipisc elit sed eiusmod tempor incdunt
                   labore et dolore magna
                 </p>
-                <Link href="/Description">
+                <Link href="/Description4">
                   <a className="main-btn btn-yellow">Read More</a>
                 </Link>
               </div>
@@ -189,7 +189,7 @@ export default class ProjectOneSlider extends Component {
               </div>
               <div className="text">
                 <h3 className="title">
-                  <Link href="/Description">
+                  <Link href="/Description2">
                     <a>Majahim</a>
                   </Link>
                 </h3>
@@ -197,7 +197,7 @@ export default class ProjectOneSlider extends Component {
                   Sit amet consectetur adipisc elit sed eiusmod tempor incdunt
                   labore et dolore magna
                 </p>
-                <Link href="/Description">
+                <Link href="/Description2">
                   <a className="main-btn btn-yellow">Read More</a>
                 </Link>
               </div>
@@ -229,7 +229,7 @@ export default class ProjectOneSlider extends Component {
               </div>
               <div className="text">
                 <h3 className="title">
-                  <Link href="/service-details">
+                  <Link href="/Description3">
                     <a>
                     White camel</a>
                   </Link>
@@ -238,7 +238,7 @@ export default class ProjectOneSlider extends Component {
                   Sit amet consectetur adipisc elit sed eiusmod tempor incdunt
                   labore et dolore magna
                 </p>
-                <Link href="/Description">
+                <Link href="/Description3">
                   <a className="main-btn btn-yellow">Read More</a>
                 </Link>
               </div>
