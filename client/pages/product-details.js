@@ -18,7 +18,7 @@ const ProductsDetails = () => {
               </div>
               <div className="col-lg-5">
                 <div className="product-info mb-50">
-                  <h3 className="title">Organic Strawberry</h3>
+                  {/* <h3 className="title">Organic Strawberry</h3> */}
                   <div className="products-rating-price d-flex">
                     <ul className="ratings">
                       <li>
@@ -52,11 +52,11 @@ const ProductsDetails = () => {
                   <ul className="product-meta">
                     <li>
                       <span>Categories :</span>
-                      <a href="#">Organic, Fruits, Food</a>
+                      <a href="#">Camel,  Food</a>
                     </li>
                     <li>
                       <span>Tags :</span>
-                      <a href="#">Fruits, Juice, Drink</a>
+                      <a href="#">Fruits, Camel</a>
                     </li>
                   </ul>
                   <div className="product-cart">
@@ -264,7 +264,7 @@ const ProductsDetails = () => {
             <div className="col-xl-8 col-lg-10">
               <div className="section-title text-center mb-60">
                 <span className="sub-title">Popular Products</span>
-                <h2>Some Category Organic Products Collect Our Shop</h2>
+                <h2>Some Category Camel</h2>
               </div>
             </div>
           </div>
@@ -294,7 +294,7 @@ const ProductsDetails = () => {
                 </ul>
                 <h3 className="title">
                   <Link href="/product-details">
-                    <a>Organice Delicious Pomegranate</a>
+                    {/* <a>Organice Delicious Pomegranate</a> */}
                   </Link>
                 </h3>
                 <span className="price">
@@ -360,7 +360,7 @@ const ProductsDetails = () => {
                 </ul>
                 <h3 className="title">
                   <Link href="/product-details">
-                    <a>Organice Delicious Pomegranate</a>
+                    {/* <a>Organice Delicious Pomegranate</a> */}
                   </Link>
                 </h3>
                 <span className="price">
@@ -393,7 +393,7 @@ const ProductsDetails = () => {
                 </ul>
                 <h3 className="title">
                   <Link href="/product-details">
-                    <a>Organice Delicious Pomegranate</a>
+                    {/* <a>Organice Delicious Pomegranate</a> */}
                   </Link>
                 </h3>
                 <span className="price">
@@ -426,7 +426,7 @@ const ProductsDetails = () => {
                 </ul>
                 <h3 className="title">
                   <Link href="/product-details">
-                    <a>Organice Delicious Pomegranate</a>
+                    {/* <a>Organice Delicious Pomegranate</a> */}
                   </Link>
                 </h3>
                 <span className="price">
