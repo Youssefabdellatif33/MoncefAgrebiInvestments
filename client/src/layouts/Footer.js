@@ -295,16 +295,16 @@ const FooterMenu = () => (
         <div className="footer-widget-nav">
           <ul>
             <li>
-              <a href="#">Agriculture Foods</a>
+              <a href="#">Agriculture Foods of Camel</a>
             </li>
             <li>
-              <a href="#">Organic Vegetables</a>
+              <a href="#">Vegetables</a>
             </li>
             <li>
-              <a href="#">Pond &amp; Sea Fish</a>
+              {/* <a href="#">Pond &amp; Sea Fish</a> */}
             </li>
             <li>
-              <a href="#">Cow Milk &amp; Meat</a>
+              <a href="#">Camel Milk &amp; Meat</a>
             </li>
             <li>
               <a href="#">Modern Equipment</a>
@@ -313,7 +313,7 @@ const FooterMenu = () => (
               <a href="#">Natural Wheats</a>
             </li>
             <li>
-              <a href="#">Eggs &amp; Meat</a>
+              <a href="#">Milk &amp; Meat</a>
             </li>
           </ul>
           <ul>

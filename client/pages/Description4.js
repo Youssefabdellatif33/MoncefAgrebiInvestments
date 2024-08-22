@@ -54,7 +54,7 @@ const PortfolioFullWidthIsotope = () => {
       <div className="row project-row">
         <div className="col-lg-4 col-md-4 col-sm-12 project-column cat-2">
           <div className="img-holder" style={{ height: '800px', overflow: 'hidden' ,borderRadius:250 }}>
-            <img src="assets/images/about/Camel9.jpg" alt="Camel in the desert" style={{ width: 400, height: 700, marginLeft:20 }} />
+            <img src="assets/images/about/images (5).jpeg" alt="Camel in the desert" style={{ width: 400, height: 700, marginLeft:20 }} />
           </div>
          
           <div className="description" style={{ flex: 1, paddingLeft: 20, alignSelf: 'center' }}>
@@ -64,7 +64,7 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-8 col-md-6 col-sm-12 project-column cat-1" style={{ padding: 30 }}>
           <h3 className="title">
             <Link href="/portfolio-details">
-              <a>Kharai</a>
+              <a>Bactrian camel</a>
             </Link>
           </h3>
           <a style={{
@@ -94,7 +94,7 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-1">
           <div className="project-item-three mb-30 wow fadeInUp">
             <div className="img-holder" style={{ height: '300px', overflow: 'hidden' }}>
-              <img src="assets/images/about/Camel9.jpg" alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src="assets/images/about/images (4).jpeg" alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -106,7 +106,7 @@ const PortfolioFullWidthIsotope = () => {
                 <div className="hover-content">
                   <h3 className="title">
                     <Link href="/portfolio-details">
-                      <a>Kharai</a>
+                      <a>Bactrian camel</a>
                     </Link>
                   </h3>
                 
@@ -119,7 +119,7 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-2">
           <div className="project-item-three mb-30 wow fadeInDown">
             <div className="img-holder" style={{ height: '300px', overflow: 'hidden' }}>
-              <img src="assets/images/about/camelfarm.jpg" alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src="assets/images/about/large.jpg" alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -131,7 +131,7 @@ const PortfolioFullWidthIsotope = () => {
                 <div className="hover-content">
                   <h3 className="title">
                     <Link href="/portfolio-details">
-                      <a>Kharai</a>
+                      <a>Bactrian camel</a>
                     </Link>
                   </h3>
                 
@@ -146,7 +146,7 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-4">
           <div className="project-item-three mb-30 wow fadeInDown">
             <div className="img-holder" style={{ height: '300px', overflow: 'hidden' }}>
-              <img src="assets/images/about/Camel2.jpg" alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src="assets/images/about/bactrian-camel-herd-at-woburn-safari-park.jpg" alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -158,7 +158,7 @@ const PortfolioFullWidthIsotope = () => {
                 <div className="hover-content">
                   <h3 className="title">
                     <Link href="/portfolio-details">
-                      <a>Kharai</a>
+                      <a>Bactrian camel</a>
                     </Link>
                   </h3>
                   <p>
@@ -179,7 +179,7 @@ const PortfolioFullWidthIsotope = () => {
         <div className="col-lg-4 col-md-6 col-sm-12 project-column cat-6">
           <div className="project-item-three mb-30 wow fadeInDown">
             <div className="img-holder" style={{ height: '300px', overflow: 'hidden' }}>
-              <img src="assets/images/about/Camel0.jpg" alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src="assets/images/about/Bactrian-Camel-Kyrgyzstan-Kazakhstan-Independent-Mongolia-Asia.webp" alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
               <div className="hover-portfolio">
                 <div className="icon-btn">
                   <Link href="/portfolio-details">
@@ -191,7 +191,7 @@ const PortfolioFullWidthIsotope = () => {
                 <div className="hover-content">
                   <h3 className="title">
                     <Link href="/portfolio-details">
-                      <a>Kharai</a>
+                      <a>Bactrian camel</a>
                     </Link>
                   </h3>
                  
